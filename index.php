@@ -82,7 +82,11 @@ if ($connect) {
         include "./assets/php/form/products.php";
     } else if (isset($_GET['lname']) && $_GET['lname'] == 'login') {
         include "./assets/php/form/login.php";
-    } else if (isset($_GET['name']) && $_GET['name'] == 'cart') {
+    }
+    else if (isset($_GET['lname']) && $_GET['lname'] == 'reg') {
+        include "./assets/php/form/register.php";
+    } 
+    else if (isset($_GET['name']) && $_GET['name'] == 'cart') {
         include "./assets/php/form/cart.php";
     } else if (isset($_POST['check']) && $_POST['check'] == 'check') {
         include "./assets/php/form/checkout.php";
