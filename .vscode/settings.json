@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6ddaa964-fb3b-4a95-9a09-e22faa534309/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/MollaStore",
+    "appService.deploySubpath": "."
+}
