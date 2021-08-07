@@ -36,6 +36,7 @@
 
 
                                 </div><!-- End .form-footer -->
+                                <a href="/index.php?lname=login"><span>Sign in</span></a>
                             </form>
 
                         </div><!-- .End .tab-pane -->

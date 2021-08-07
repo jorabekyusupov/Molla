@@ -10,7 +10,7 @@
                             }
                         }
                     }'>
-            <div class="intro-slide" style="background-image: url(assets/images/demos/demo-4/slider/slide-1.png);">
+            <div class="intro-slide" style="background-image: url(./assets/images/demos/demo-4/slider/slide-1.png);">
                 <div class="container intro-content">
                     <div class="row justify-content-end">
                         <div class="col-auto col-sm-7 col-md-6 col-lg-5">
@@ -34,7 +34,7 @@
                 </div><!-- End .intro-content -->
             </div><!-- End .intro-slide -->
 
-            <div class="intro-slide" style="background-image: url(assets/images/demos/demo-4/slider/slide-2.png);">
+            <div class="intro-slide" style="background-image: url(./assets/images/demos/demo-4/slider/slide-2.png);">
                 <div class="container intro-content">
                     <div class="row justify-content-end">
                         <div class="col-auto col-sm-7 col-md-6 col-lg-5">
@@ -70,7 +70,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="banner banner-overlay banner-overlay-light">
                     <a href="#">
-                        <img src="assets/images/demos/demo-4/banners/banner-1.png" alt="Banner">
+                        <img src="./assets/images/demos/demo-4/banners/banner-1.png" alt="Banner">
                     </a>
 
                     <div class="banner-content">
@@ -84,7 +84,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="banner banner-overlay banner-overlay-light">
                     <a href="#">
-                        <img src="assets/images/demos/demo-4/banners/banner-2.jpg" alt="Banner">
+                        <img src="./assets/images/demos/demo-4/banners/banner-2.jpg" alt="Banner">
                     </a>
 
                     <div class="banner-content">
@@ -98,7 +98,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="banner banner-overlay banner-overlay-light">
                     <a href="#">
-                        <img src="assets/images/demos/demo-4/banners/banner-3.png" alt="Banner">
+                        <img src="./assets/images/demos/demo-4/banners/banner-3.png" alt="Banner">
                     </a>
 
                     <div class="banner-content">
@@ -116,21 +116,7 @@
 
     <div class="mb-6"></div><!-- End .mb-6 -->
 
-    <div class="container">
-        <div class="cta cta-border mb-5" style="background-image: url(assets/images/demos/demo-4/bg-1.jpg);">
-            <img src="assets/images/demos/demo-4/camera.png" alt="camera" class="cta-img">
-            <div class="row justify-content-center">
-                <div class="col-md-12">
-                    <div class="cta-content">
-                        <div class="cta-text text-right text-white">
-                            <p>Shop Today’s Deals <br><strong>Awesome Made Easy. HERO7 Black</strong></p>
-                        </div><!-- End .cta-text -->
-                        <a href="#" class="btn btn-primary btn-round"><span>Shop Now - $429.99</span><i class="icon-long-arrow-right"></i></a>
-                    </div><!-- End .cta-content -->
-                </div><!-- End .col-md-12 -->
-            </div><!-- End .row -->
-        </div><!-- End .cta -->
-    </div><!-- End .container -->
+
 
     <div class="container">
         <div class="heading text-center mb-3">
@@ -140,7 +126,7 @@
 
         <div class="row">
             <div class="col-lg-6 deal-col">
-                <div class="deal" style="background-image: url('assets/images/demos/demo-4/deal/bg-1.jpg');">
+                <div class="deal" style="background-image: url('./assets/images/demos/demo-4/deal/bg-1.jpg');">
                     <div class="deal-top">
                         <h2>Deal of the Day.</h2>
                         <h4>Limited quantities. </h4>
@@ -164,7 +150,7 @@
             </div><!-- End .col-lg-6 -->
 
             <div class="col-lg-6 deal-col">
-                <div class="deal" style="background-image: url('assets/images/demos/demo-4/deal/bg-2.jpg');">
+                <div class="deal" style="background-image: url('./assets/images/demos/demo-4/deal/bg-2.jpg');">
                     <div class="deal-top">
                         <h2>Your Exclusive Offers.</h2>
                         <h4>Sign in to see amazing deals.</h4>
